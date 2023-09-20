@@ -162,6 +162,13 @@ header {
     left: 10px;
 }
 
+nav li{
+    width: max-content;
+    margin: 0 auto;
+    padding: 0.1em 0.5em;
+
+}
+
 nav li:hover {
     width: max-content;
     margin: 0 auto;
